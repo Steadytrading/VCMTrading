@@ -95,7 +95,7 @@ HTML = '''
         <label>Result (%)</label>
         <input type="text" name="result" value="3.74" required>
         <label>Brand</label>
-        <input type="text" name="brand" value="PCM Trading">
+        <input type="text" name="brand" value="VCM Trading">
         <label>Seed (optional)</label>
         <input type="text" name="seed" placeholder="2026-03-09">
         <button type="submit">Download daily PNG</button>
